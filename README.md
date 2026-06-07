@@ -46,3 +46,4 @@ Through this project, I practiced:
 ## Project Preview
 
 Play different drum sounds and create your own beats directly in the browser!
+
