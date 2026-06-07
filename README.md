@@ -1,5 +1,7 @@
 # Drum Kit 🥁
 
+🔗 Live Demo: https://gautham-2304.github.io/Drum-Kit/
+
 An interactive Drum Kit web application built with HTML, CSS, and JavaScript.
 
 ## Features
